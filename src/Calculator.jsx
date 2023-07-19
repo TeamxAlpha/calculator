@@ -24,6 +24,7 @@ const Calculator = () => {
     );
   };
 
+
   const handleOperatorClick = (op) => {
     if (operator) {
       handleEqualClick();
